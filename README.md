@@ -1,6 +1,9 @@
-$$
+
+```python
 Home Sales Data Analysis
-$$
+```
+
+
 This project leverages SparkSQL to derive insights from home sales data. We performed data ingestion, transformation, querying, and explored optimizations like caching and partitioning to enhance query performance.
 
 **Key Objectives**
