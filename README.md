@@ -2,7 +2,7 @@
 ```python
 Home Sales Data Analysis
 ```
-
+My Google colab worked without errors however VS code had errors due to extensive data and lib not installed
 
 This project leverages SparkSQL to derive insights from home sales data. We performed data ingestion, transformation, querying, and explored optimizations like caching and partitioning to enhance query performance.
 
